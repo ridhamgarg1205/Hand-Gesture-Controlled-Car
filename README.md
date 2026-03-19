@@ -11,6 +11,7 @@ The system operates by mapping the tilt of a user's hand to specific movement co
 ### Key Concepts
 * **Gesture Mapping**: Translating the physical tilt of the hand (detected by an accelerometer) into digital signals.
 * **Wireless Transception**: Sending data packets over the 2.4GHz spectrum using the nRF24L01 protocol.
+.
 * **Differential Drive**: Controlling a robot's direction by varying the speeds of the left and right wheels.
 
 ---
@@ -61,7 +62,7 @@ During the early phase, communication was unstable due to electrical noise from 
 
 ### Structural Integrity
 * **Challenge**: Ensuring the 4WD chassis remained stable during movement.
-* **Solution**: Reinforced the acrylic base plates using M3x30mm brass standoffs and binding wire for added mechanical strength.
+* **Solution**: Secured the acrylic base plates using M3x30mm brass standoffs and binding wire for added mechanical strength.
 
 ---
 
